@@ -1,0 +1,58 @@
+﻿ID,Site,State,Latitude,Longitude
+SP3_CSV,Cabo S. Vicente,Primary,37.02324,-8.9954
+SP4_CSV,Cabo S. Vicente,Primary,37.0229,-8.9956
+SP6_CSV,Cabo S. Vicente,Primary,37.02294,-8.99541
+SP7_CSV,Cabo S. Vicente,Primary,37.02327,-8.99521
+SP8_PdA,Ponta dos Altos Este,Primary,37.02737,-8.98043
+SP9_PdA,Ponta dos Altos Este,Primary,37.02731,-8.98031
+SP10_PdA,Ponta dos Altos Este,Primary,37.02727,-8.98022
+SP12_PBX,Praia do Belixe,Primary,37.02599,-8.9632
+SP13_PBX,Praia do Belixe,Primary,37.02626,-8.96377
+SP14_PBX,Praia do Belixe,Primary,37.02609,-8.96346
+SP15_PBX,Praia do Belixe,Primary,37.02623,-8.96391
+SP16_PBX,Praia do Belixe,Primary,37.02606,-8.96411
+SP17_PBX,Praia do Belixe,Primary,37.02637,-8.96526
+SP18_PBX,Praia do Belixe,Primary,37.02663,-8.96717
+SP19_PBX,Praia do Belixe,Primary,37.02625,-8.96421
+SP20_BLS,Belixe Sul,Sub-primary,37.02818,-8.96326
+SP21_BLS,Belixe Sul,Sub-primary,37.02784,-8.96343
+SP22_BLS,Belixe Sul,Primary,37.0278,-8.96342
+SP23_BLN,Belixe Norte,Secondary,37.03654,-8.96175
+SP24_CSV,Cabo S. Vicente,Primary,37.02342,-8.99481
+SP25_CSV,Cabo S. Vicente,Primary,37.02273,-8.99385
+SP26_CSV,Cabo S. Vicente,Secondary,37.02353,-8.99455
+SP27_CSV,Cabo S. Vicente,Primary,37.02254,-8.99352
+SP28_ASP,Aspa,Primary,37.02791,-8.99109
+SP29_ASP,Aspa,Secondary,37.02719,-8.99076
+SP30_FZF,Foz dos Fornos,Primary,37.02466,-8.98959
+SP31_FZF,Foz dos Fornos,Sub-primary,37.02465,-8.98963
+SP32_FZF,Foz dos Fornos,Primary,37.02446,-8.98989
+SP33_FZF,Foz dos Fornos,Primary,37.02444,-8.98969
+SP34_PdA,Ponta dos Altos Este,Primary,37.02671,-8.9795
+SP35_BLX,Belixe,Isolated find,37.02642,-8.9688
+SP36_PtA,Ponta da Atalaia,Isolated find,37.00231,-8.9313
+SP37_PtA,Ponta da Atalaia,Secondary,37.00455,-8.93335
+SP39_AND,Andorinha,Secondary,37.05941,-8.85058
+SP40_FER,Ferrel,Primary,37.11245,-8.72567
+SP41_FER,Ferrel,Secondary,37.11269,-8.72624
+SP47_CdC,Casal da Colina,Primary,37.10376,-7.94561
+SP48_CdC,Casal da Colina,Secondary,37.10384,-7.94559
+SP49_CdC,Casal da Colina,Secondary,37.10384,-7.94559
+SP50_CdC,Casal da Colina,Primary,37.10357,-7.94596
+SP52_CdC,Casal da Colina,Secondary,37.10367,-7.94622
+SP53_GUI,Guilhim,Secondary,37.09512,-7.93688
+SP54_GUI,Guilhim,Isolated find,37.09512,-7.93667
+SP55_CAL,Caliços,Secondary,37.10339,-7.80087
+SP56_JOR,Jordana,Sub-primary,37.11549,-7.82989
+SP57_JOR,Jordana,Primary,37.11571,-7.82931
+SP58_JOR,Jordana,Primary,37.1156,-7.8292
+SP59_JOR,Jordana,Primary,37.10745,-7.79687
+SP61_PER,Peral,Other,37.12805,-7.8485
+SP62_OLV,Oliveiras,Secondary,37.13375,-7.71372
+SP63_OLV,Oliveiras,Primary,37.13467,-7.71415
+SP64_OLV,Oliveiras,Isolated find,37.13469,-7.71416
+SP65_MALH,Malhão,Primary,37.13827,-7.70908
+SP66_MALH,Malhão,Primary,37.13827,-7.70908
+SP67_DESCAM,Cabeço Descampado,Secondary,37.14232,-7.69188
+SP68_PEDR,Pedreira,Other,37.14399,-7.69642
+SP69_MAR,Praia da Mareta,Sub-primary,37.00581,-8.93712
